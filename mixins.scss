@@ -1,3 +1,4 @@
+@charset "UTF-8";
 // Adds a browser prefix to the property
 /// @param {*} $property Property
 /// @param {*} $value Value
@@ -343,6 +344,16 @@
     content: "";
     display: table;
     clear: both;
+  }
+}
+@mixin word-wrap($wrap: break-word) {
+  overflow-wrap: $wrap;
+  word-wrap: $wrap;
+
+  @if $wrap == break-word {
+    word-break: break-all;
+  } @else {
+    word-break: $wrap;
   }
 }
 //text truncate
