@@ -1,0 +1,25 @@
+{
+  "name": "sass-mixins-lib",
+  "version": "1.0.0",
+  "description": "sass mixins lib",
+  "main": "./mixins.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virgoone/sass-mixins.git"
+  },
+  "keywords": [
+    "sass",
+    "mixins",
+    "lib",
+    "scss"
+  ],
+  "author": "virgo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/virgoone/sass-mixins/issues"
+  },
+  "homepage": "https://github.com/virgoone/sass-mixins#readme"
+}
