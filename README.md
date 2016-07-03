@@ -1,5 +1,6 @@
 # sass-mixins
-
+[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![NPM version](https://badge.fury.io/js/sass-mixins-lib.svg)](http://badge.fury.io/js/sass-mixins-lib)
 ## Mixins available:
 
 <table>
