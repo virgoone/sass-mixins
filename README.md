@@ -121,4 +121,8 @@
    <td>animation</td>
    <td>name duration timing-function delay iteration-count direction fill-mode play-state (http://www.w3schools.com/cssref/css3_pr_animation.asp)</td>
  </tr>
+ <tr>
+   <td>word-wrap</td>
+   <td>$wrap: break-word</td>
+ </tr>
 </table>
